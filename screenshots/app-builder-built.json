@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "نبض",
+      "hasCanvas": false,
+      "bodyTextLen": 2414,
+      "bodyTextHash": "d591c50ae1926180e89677e437facf2b5fb6f57de440fb5fb50af87192f58798",
+      "bodyTextPrefix": "نبض ورود، حد ضرر و حد سود — ۱۰۰ ارز برتر تازه‌سازی داده زنده کوی",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "نبض",
+      "hasCanvas": false,
+      "bodyTextLen": 2316,
+      "bodyTextHash": "78212dee960927dc5844a1134ac70fe17f579a6b401c4b2d23a7d96b6b3b0e90",
+      "bodyTextPrefix": "نبض ورود، حد ضرر و حد سود — ۱۰۰ ارز برتر تازه‌سازی داده زنده کوی",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
